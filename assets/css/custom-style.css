@@ -1,0 +1,29 @@
+.sidebar.sidebar-style-2
+  .nav.nav-secondary
+  > .nav-item.active
+  > a {
+  background: #99582a !important;
+}
+
+.bg-secondary-gradient {
+  background: #99582a !important;
+}
+
+.navbar {
+  background: #432818 !important;
+}
+
+.logo-header {
+  background: #432818 !important;
+}
+
+.btn-secondary,
+.login .btn-login {
+  background: #432818 !important;
+  border-color: #432818 !important;
+}
+.btn-secondary:hover,
+.login .btn-login {
+  background: #bb9457 !important;
+  border-color: #bb9457 !important;
+}
